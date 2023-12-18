@@ -3,11 +3,16 @@
 # mysql -u root -p
 <p> Primer de tot hem d'entrar al Mariadb </p>
 
+
  <p> CREATE TABLE coches (
+=======
+# CREATE TABLE coches (
+
     matricula VARCHAR(10) PRIMARY KEY,
     marca VARCHAR(50),
     nombre_del_coche VARCHAR(50),
     km_recorridos INT
+
 );</p>
 
 <p> Aqui li hem de posar els atributs a la base de dades assignant la matricula com a clau primaria </p>
@@ -18,7 +23,12 @@
 ('ABC123', 'Toyota', 'Corolla', 50000),
 ('XYZ789', 'Honda', 'Civic', 60000);</p>
 
-# SELECT * FROM coches;
 
-<p>  </p>
+<p> Aqui hem d'indicar el l'informació del cotxe matricula, marca, nom_del_cotxe, km_recorreguts </p>
+
+
+
+
+
+
 

@@ -23,7 +23,7 @@
 
 
 <p> Aqui hem d'indicar el l'informació del cotxe matricula, marca, nom_del_cotxe, km_recorreguts </p>
-absjs
+
 
 
 
